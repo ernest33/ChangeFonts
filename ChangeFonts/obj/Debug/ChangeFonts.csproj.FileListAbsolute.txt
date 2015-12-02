@@ -1,0 +1,22 @@
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ResolveAssemblyReference.cache
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.Properties.Resources.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.csproj.GenerateResource.Cache
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Debug\ChangeFonts.exe
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Debug\ChangeFonts.pdb
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.exe
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.pdb
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.w_main.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.FontSelected.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Debug\ManilaDotNetSDK.dll
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Debug\OpenNETCF.Drawing.dll
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.exe
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.pdb
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Debug\ChangeFonts.exe
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Debug\ChangeFonts.pdb
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Debug\ManilaDotNetSDK.dll
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Debug\OpenNETCF.Drawing.dll
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.FontSelected.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.w_main.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.Properties.Resources.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.csproj.GenerateResource.Cache
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Debug\ChangeFonts.csprojResolveAssemblyReference.cache

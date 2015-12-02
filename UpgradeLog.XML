@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChangeFonts">
+</Property><Property Name="Solution File" Value="G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts.sln">
+</Property><Property Name="User Options File" Value="G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts.suo">
+</Property><Property Name="Date" Value="mercredi 9 avril 2014">
+</Property><Property Name="Time" Value="13:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ChangeFonts.sln" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ChangeFonts.suo" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts.suo">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\ChangeFonts.csproj" Description="Project file successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\ChangeFonts.csproj">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\ChangeFonts.csproj.user" Description="Project user file successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\ChangeFonts.csproj.user">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Class1.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Class1.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\FontSelected.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\FontSelected.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\FontSelected.Designer.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\FontSelected.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Form1.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Form1.Designer.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Program.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Program.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Utils_Fonts.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Utils_Fonts.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Win32.cs" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Win32.cs">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\ClassDiagram1.cd" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Properties\Settings.settings" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\about.png" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\about.png">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\font.ico" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\font.ico">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\FontSelected.resx" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\FontSelected.resx">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Form1.resx" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\Properties\Resources.resx" Description="File successfully backed up as G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\Backup\ChangeFonts\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\ChangeFonts.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChangeFonts" Source="ChangeFonts\ChangeFonts.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ChangeFonts.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ChangeFonts.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChangeFonts" Source="ChangeFonts\ChangeFonts.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

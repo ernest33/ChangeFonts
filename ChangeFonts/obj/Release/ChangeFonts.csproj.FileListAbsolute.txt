@@ -1,0 +1,19 @@
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Release\ChangeFonts.exe
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\bin\Release\ChangeFonts.pdb
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ResolveAssemblyReference.cache
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.FontSelected.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.w_main.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.Properties.Resources.resources
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.csproj.GenerateResource.Cache
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.exe
+C:\Ernest Stuff\Documents Dev\VS2008\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.pdb
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.exe
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.pdb
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Release\ChangeFonts.exe
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Release\ChangeFonts.pdb
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Release\ManilaDotNetSDK.dll
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\bin\Release\OpenNETCF.Drawing.dll
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.FontSelected.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.w_main.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.Properties.Resources.resources
+G:\Dropbox\@Boulot\ChangeFonts\ChangeFonts\ChangeFonts\obj\Release\ChangeFonts.csproj.GenerateResource.Cache
